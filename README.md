@@ -136,6 +136,4 @@ python voxy_to_xaero_v3.py "путь/к/storage" "путь/к/xaero" --max-secti
 
 ---
 
-### License / Лицензия
 
-MIT
